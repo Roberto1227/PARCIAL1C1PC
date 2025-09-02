@@ -33,3 +33,7 @@ La otra clase es Registro de viaje que administra la colección de viajes, permi
  • ¿De qué manera el uso de GitHub facilitó el trabajo colaborativo en equipo? Den un ejemplo concreto.
 
 Consideramos que un tener un repositorio de github nos ayuda a agilizar el tiempo y trabajar mejor con la parte de el código, al ver los cambios y al poder modificarlos nos facilita el trabajo un montón. Un ejemplo que podríamos dar es que un miembro pudo trabajar en la clase Viaje mientras otro desarrollaba la clase RegistroViajes. Luego, ambos cambios se integraron fácilmente usando la opción que aparece en vs code  pull requests y  se puede revisar quién hizo cada cambio y arreglar errores si es necesario.
+
+En conclusion 
+
+podemos decir que la aplicacion o el sistema ayuda a tener un mejor control de el dinero que se esta ganando asi como el tiempo por viaje y los gastos ´por semnas y ganancias.
