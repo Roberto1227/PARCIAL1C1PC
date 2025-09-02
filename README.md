@@ -1,3 +1,6 @@
 Intregrantes: 
-Edwin Josue Parada Campos SMTR043624
-ROberto Carlos Chavez Campos SMTR044024
+
+Edwin Josue Parada Campos  
+CODIGO: SMTR043624
+Roberto Carlos Chavez Campos 
+CODIGO: SMTR044024
